@@ -37,5 +37,7 @@
   },
   "resolutions": {
     "styled-components":"^5"
-  }
+  },
+
+  "proxy": "http://localhost:5059"
 }
